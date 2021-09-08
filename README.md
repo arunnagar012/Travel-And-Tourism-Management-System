@@ -5,5 +5,5 @@ The objective of the Travel and Tourism Management System project is to develop 
 
 Tech Stack Used :
 Language Used -  Java Core 
-Concept Used - Swing , AWT , Multithreading ,Inheritance , ActionEvents , MySQL etc .
+Concept Used - Swing , AWT ,Multithreading ,Inheritance , ActionEvents , MySQL etc .
 Database Used - MySQL Database
